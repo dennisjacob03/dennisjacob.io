@@ -2,7 +2,7 @@
 
 Welcome to the source code of my personal portfolio website! Built to showcase my projects, skills, and experience as a Full Stack Developer.
 
-🔗 **Live Site:** [dennisjacob-io.vercel.app](https://dennisjacob-io.vercel.app) *(or update to your custom domain later)*
+🔗 **Live Site:** [dennisjacob-io.vercel.app](https://dennisjacob-io.vercel.app)
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, React
